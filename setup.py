@@ -5,7 +5,7 @@ try:
 except ImportError:
     from distutils.core import setup
 setup(name='p2p-addons',
-      version='1.0.0',
+      version='1.0.1',
       description='peer2peer add ons',
       py_modules=['addons'],
       license='MIT',
